@@ -83,7 +83,7 @@ It holds that $A A^{\ast} = | A | I$
 where $A^{ \ast }$ 
 is the Adjugate matrix of $A$, hence, 
 
-$$|A| = tr(A A^{\ast})$$
+$$|A| = tr(A A^{\ast})/n$$
 
 and 
 
